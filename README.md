@@ -29,3 +29,8 @@ Given the parameters and constraints presented by the problem, in terms of quali
 2. Run  `python inference_video.py` for video files.
 3. Run `python inference_webcam.py` for live streaming.
 
+
+
+**Futuristic and Upscaling Design features Explained Using Model Architecture**
+![alt text](https://www.oreilly.com/library/view/hands-on-image-processing/9781789343731/assets/d929fc98-db73-4c77-9d60-4b4582fa03e2.png)
+
