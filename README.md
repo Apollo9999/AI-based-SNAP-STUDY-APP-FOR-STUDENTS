@@ -8,7 +8,7 @@ Project Objective is to create student community platforms that students could b
 Our A.I based app use proprietary Deep Learning models that allows users to create flashcards & summaries by simply taking images of their notes/lecture slides.The app encourages knowledge-based learning,which results in greater understanding & retention of content.The also app has a gamification element that motivates & makes revision fun for users, & gives each user personalized revision content
 
 
-**Solution Approach:**
+**Solution and Technology Stack Used:**
 
 
 1)Authentication Using Firebase, the user is securely authenticated via Oauth options such as Google & Twitter, as well as continue as a Guest. Authentication process is done in Google Cloud Functions.
