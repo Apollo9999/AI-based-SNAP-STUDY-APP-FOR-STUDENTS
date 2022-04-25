@@ -1,9 +1,8 @@
 # AI-based-SNAP-STUDY-APP-FOR-STUDENTS
 
-*PROJECT DESCRIPTION**
+**PROJECT DESCRIPTION**
 
-
-Project Objective is to create student community platforms that students could be used in connecting in sharing ideas and knowledge for learning and examination purposes. It has not been easy for the student to improve their knowledge cap in terms of education technologies. As students aim to tackle some problems that our project thoughts and there by provide novel solutions for students .The course material that is presented to students worldwide, specially to students in higher classes or colleges, is often non indulging and monotonous. It has hardly any interactability and often does not drive the student towards further reading on the topics.
+Main aim and Objective of the Project is to create student community platforms that students could be used in connecting in sharing ideas and knowledge for learning and examination purposes. It has not been easy for the student to improve their knowledge cap in terms of education technologies. As students aim to tackle some problems that our project thoughts and there by provide novel solutions for students .The course material that is presented to students worldwide, specially to students in higher classes or colleges, is often non indulging and monotonous. It has hardly any interactability and often does not drive the student towards further reading on the topics.
 
 Our A.I based app use proprietary Deep Learning models that allows users to create flashcards & summaries by simply taking images of their notes/lecture slides.The app encourages knowledge-based learning,which results in greater understanding & retention of content.The also app has a gamification element that motivates & makes revision fun for users, & gives each user personalized revision content
 
